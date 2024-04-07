@@ -7,7 +7,7 @@ This code is to create a random smart contract lottery
 
 1. Allow users to enter the lottery by sending a certain amount of Ether to the contract
 
-1. Users can enter ny paying for a ticket
+1. Users can enter by paying for a ticket
     1. The ticket fees are going to the lottery winner during the draw
 2. After X period of time, the lottery will automatically draw a winner
     1. And this will be done programatically
